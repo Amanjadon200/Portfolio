@@ -1,0 +1,16 @@
+.experience{
+margin-left: 10rem;
+}
+h3{
+    margin-bottom: 20px;
+}
+#experience{
+    height: auto;
+    margin-bottom: 100px;
+   
+}
+@media screen and (max-width:740px) {
+    .experience{
+        margin-left: 4rem;
+    }
+}

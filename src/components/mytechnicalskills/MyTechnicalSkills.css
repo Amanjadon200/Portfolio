@@ -1,0 +1,9 @@
+.technical{
+    height: 60vh;
+ margin-left: 10rem;  
+}
+@media screen and (max-width:740px) {
+    .technical{
+     margin-left: 4rem;  
+    }
+}
